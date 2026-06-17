@@ -1,0 +1,18 @@
+name: CustomWanderingTrader
+version: 1.0.0
+main: ru.customwanderingtrader.CustomWanderingTraderPlugin
+api-version: '1.21'
+authors:
+  - byhary
+description: Casino trades for Wandering Traders on Paper 1.21.11
+softdepend:
+  - floodgate
+commands:
+  upgrade:
+    description: Opens a safe Bedrock upgrade GUI for unsafe enchanted books.
+    usage: /upgrade
+    permission: customtradercasino.upgrade
+permissions:
+  customtradercasino.upgrade:
+    description: Allows opening the Bedrock-safe upgrade GUI.
+    default: true

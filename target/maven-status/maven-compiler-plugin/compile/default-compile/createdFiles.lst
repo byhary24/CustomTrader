@@ -1,0 +1,10 @@
+ru\customwanderingtrader\CustomWanderingTraderPlugin.class
+ru\customwanderingtrader\UpgradeHolder.class
+ru\customwanderingtrader\UpgradeCommand.class
+ru\customwanderingtrader\UpgradeGui$UpgradePreview.class
+ru\customwanderingtrader\FloodgateBedrockDetector.class
+ru\customwanderingtrader\TradePool.class
+ru\customwanderingtrader\UpgradeGui.class
+ru\customwanderingtrader\NoFloodgateBedrockDetector.class
+ru\customwanderingtrader\BedrockDetector.class
+ru\customwanderingtrader\TraderListener.class
